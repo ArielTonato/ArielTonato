@@ -69,8 +69,21 @@ I’m a passionate Software Engineer based in Ecuador, currently pursuing my deg
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=ArielTonato&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ArielTonato)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ArielTonato&theme=material-palenight)](https://github.com/ArielTonato)
+<div align="center">
+  <a href="https://github.com/ArielTonato">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArielTonato&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/ArielTonato">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielTonato&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  </a>
+</div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/ArielTonato">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArielTonato&theme=tokyonight&hide_border=true" alt="streak graph" />
+  </a>
+</div>
