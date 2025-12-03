@@ -71,15 +71,6 @@ I’m a passionate Software Engineer based in Ecuador, currently pursuing my deg
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
-  <a href="https://github.com/ArielTonato">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArielTonato&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/ArielTonato">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielTonato&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
